@@ -1,5 +1,3 @@
-# first_demo
-
 ## Project setup
 ```
 npm install
